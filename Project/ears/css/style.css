@@ -1,0 +1,96 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+.item{
+  height: 500px;
+}
+#home{
+  padding-top: 300px;
+  padding-bottom: 280px;
+  background: url('../img/job2.jpg');
+  background-repeat: no-repeat;
+}
+#home h2{
+  color: #fff;
+}
+.search-form .form-control{
+  margin: 0 auto;
+  width: 45%;
+  padding: 28px 15px;
+  margin-top: 80px;
+  background: black;
+}
+
+.table{
+  border: 1px solid #ddd;
+}
+.table tr td p{
+  color: #7d7d7d;
+}
+.table tr td span{
+  background: #5cc069;
+  color: #fff;
+  padding: 4px;
+  border-radius: 2px;
+  margin-top: 5px;
+}
+#job{
+  margin-top: 40px;
+}
+#job .heading{
+  margin-top: 55px;
+  padding-bottom: 25px;
+}
+#jobHeading{
+  padding-bottom: 40px;
+}
+#jobHeading .background{
+  background: #f8f8f8;
+}
+.work-time{
+  background: #5cc069;
+  color: #fff;
+  padding: 8px;
+  border-radius: 4px;
+  margin-top: 5px;
+}
+.job-heading{
+  margin-top: 110px;
+  padding-bottom: 80px;
+}
+.job-description p{
+  color: #7d7d7d;
+}
+#jobHeading .btn-primary{
+  padding: 10px 50px;
+}
+#signup h3{
+  margin-top: 100px;
+}
+#signup .btn{
+  padding: 12px 70px;
+}
+#signup .form-control{
+  margin: 0 auto;
+  width: 50%;
+  padding: 22px 12px;
+}
+
+#cv{
+  background: #f8f8f8;
+}
+#cv h3{
+  margin-top: 100px;
+  padding: 40px;
+  padding-bottom: 60px;
+}
+#form .form-control{
+  width: 40%;
+  margin: 0 auto;
+  cursor: pointer;
+}
+#form .btn{
+  padding: 10px 90px;
+}
